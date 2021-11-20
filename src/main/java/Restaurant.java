@@ -45,7 +45,7 @@ public class Restaurant {
             return true;
         }
         return false;
-        //DELETE ABOVE STATEMENT AND WRITE CODE HERE
+        //DELETE ABOVE STATEMENT AND WRITE CODE HER
     }
 
     public LocalTime getCurrentTime(){ return  LocalTime.now(); }
